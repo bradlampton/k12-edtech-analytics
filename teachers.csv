@@ -1,0 +1,101 @@
+teacher_id,school_id,subject,hire_date
+1,1,Writing,2021-04-07
+2,1,Writing,2019-04-01
+3,1,Writing,2023-05-27
+4,1,Writing,2021-08-31
+5,1,English Language Arts,2020-12-19
+6,1,English Language Arts,2019-05-02
+7,1,English Language Arts,2022-07-05
+8,1,Writing,2025-04-04
+9,1,Writing,2024-10-26
+10,1,Reading,2023-07-26
+11,2,English Language Arts,2025-01-08
+12,2,Reading,2023-03-30
+13,2,Reading,2019-09-29
+14,2,Reading,2024-03-05
+15,2,Reading,2021-05-08
+16,2,English Language Arts,2019-04-10
+17,2,English Language Arts,2022-09-01
+18,2,Reading,2023-05-03
+19,2,English Language Arts,2022-10-05
+20,2,Writing,2020-11-03
+21,3,Reading,2023-04-25
+22,3,English Language Arts,2019-04-27
+23,3,Writing,2023-09-18
+24,3,English Language Arts,2024-08-23
+25,3,Writing,2023-05-31
+26,3,Writing,2024-04-05
+27,3,English Language Arts,2024-05-03
+28,3,Reading,2025-04-06
+29,3,Reading,2022-06-26
+30,3,Writing,2019-07-20
+31,4,English Language Arts,2021-01-03
+32,4,Reading,2020-09-04
+33,4,Writing,2022-07-10
+34,4,Writing,2021-06-02
+35,4,English Language Arts,2020-04-27
+36,4,Writing,2020-05-24
+37,4,English Language Arts,2025-01-11
+38,4,Writing,2025-06-26
+39,4,English Language Arts,2022-04-26
+40,4,Writing,2023-02-15
+41,5,Reading,2024-11-27
+42,5,Reading,2019-06-25
+43,5,Writing,2025-09-13
+44,5,Writing,2022-11-29
+45,5,Writing,2025-06-25
+46,5,Reading,2020-08-27
+47,5,Writing,2020-12-21
+48,5,English Language Arts,2023-11-24
+49,5,Writing,2021-01-16
+50,5,Writing,2020-06-01
+51,6,Reading,2020-08-29
+52,6,English Language Arts,2021-05-09
+53,6,English Language Arts,2022-05-01
+54,6,Writing,2024-10-04
+55,6,Reading,2022-03-27
+56,6,English Language Arts,2020-05-17
+57,6,English Language Arts,2021-06-10
+58,6,Writing,2025-07-09
+59,6,English Language Arts,2024-12-11
+60,6,English Language Arts,2023-02-07
+61,7,English Language Arts,2024-08-19
+62,7,English Language Arts,2020-02-29
+63,7,Reading,2019-11-06
+64,7,English Language Arts,2021-04-19
+65,7,Reading,2023-10-30
+66,7,Writing,2021-11-16
+67,7,Writing,2020-05-05
+68,7,Writing,2020-12-22
+69,7,Reading,2023-08-26
+70,7,English Language Arts,2019-10-10
+71,8,Reading,2022-09-14
+72,8,English Language Arts,2020-06-30
+73,8,Reading,2025-08-10
+74,8,Writing,2023-04-01
+75,8,Writing,2024-02-27
+76,8,English Language Arts,2019-10-03
+77,8,Reading,2019-09-27
+78,8,English Language Arts,2024-11-20
+79,8,Reading,2024-08-29
+80,8,English Language Arts,2024-08-12
+81,9,Writing,2024-03-16
+82,9,English Language Arts,2022-08-29
+83,9,Writing,2022-11-13
+84,9,English Language Arts,2020-07-09
+85,9,English Language Arts,2023-03-14
+86,9,English Language Arts,2019-10-02
+87,9,Reading,2021-08-18
+88,9,Reading,2019-03-18
+89,9,Writing,2024-05-26
+90,9,Reading,2022-11-01
+91,10,English Language Arts,2022-02-13
+92,10,Writing,2022-12-08
+93,10,Reading,2022-10-05
+94,10,Writing,2022-08-02
+95,10,Writing,2019-06-06
+96,10,Writing,2020-06-10
+97,10,Reading,2020-12-03
+98,10,Writing,2020-07-02
+99,10,English Language Arts,2022-03-16
+100,10,Writing,2019-11-03
